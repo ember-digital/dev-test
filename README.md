@@ -2,7 +2,7 @@
 
 # Ember Engineering
 
-For an up to date list of roles we are recruiting for please see <https://ember.co/jobs>.
+For an up to date list of roles we are recruiting for please see [our jobs page](https://apply.workable.com/emberdigital/#jobs).
 
 ![Hiring Process](assets/process.png?raw=true)
 
@@ -10,7 +10,7 @@ Hi! If you're reading this then we're likely in the process of speaking with you
 
 If you want to just get stuck in and skip our rational on coding exercises [click here](#instructions)...
 
-In order for you to progress through the interview process we would like to understand a little more about how you work, your experience and how you approach a given set of problems. To help us understand this, this repository contains a set of **short, time-boxed** (approximately 1-2 hours max) that you can use to exhibit your skills, abilities and thought processes.
+In order for you to progress through the interview process we would like to understand a little more about how you work, your experience and how you approach a given set of problems. To help us understand this, this repository contains a set of **short, time-boxed** exercise (approximately 1-2 hours max) that you can use to exhibit your skills, abilities and thought processes.
 
 ## Our rational on offline coding exercises
 
@@ -20,7 +20,7 @@ We know that the hiring processes in our industry are somewhat broken. We are al
 
 * 🕙  ~ Offline coding exercises allow you to work at your own pace. This helps eliminate the performance anxiety of pairing with someone you've never met. This in turn - we hope - allows you to create your best work! We intentionally structure these to take around 1-2 hours of time and you are free to break this into as many sessions as you want. Please do not take longer - we ask this for your sake, not ours.
 
-* 🛠 ~ It allows you to use the tools, languages, and frameworks where you are the most productive (within guiderails). Much of being an engineer on a semi-remote team is about being self-motivated, being able to solve problems in an effective way using exploration and an inquisitive mind to solve problems This will usually entail periods of cyclic work/edit/review/test, followed by peer review and then ultimately merging your work. Offline exercises follow a similar pattern and are a great way to emulate this.
+* 🛠 ~ It allows you to use the tools, languages, and frameworks where you are the most productive (within guiderails). Much of being an engineer on a semi-remote team is about being self-motivated, being able to solve problems in an effective way using exploration and an inquisitive mind. This will usually entail periods of cyclic work/edit/review/test, followed by peer review and then ultimately merging your work. Offline exercises follow a similar pattern and are a great way to emulate this.
 
 ## Instructions
 
