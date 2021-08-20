@@ -1,0 +1,9 @@
+## Our rational on offline coding exercises
+
+We know that the hiring processes in our industry are somewhat broken. We are also very aware that there are mixed opinions on take-home exercises in general. The main reason we ask candidates of *all* levels and backgrounds to complete these exercises are:
+
+* 🏢  ~ We employ flexible working methods. We have WeWork offices where some of our engineers choose to work. We also encourage and support those who would rather work from home. Or a mix of the two. We hire candidates accordingly and so we need some way of understanding how people work, under their own steam. A coding exercise helps us do this, in a way that allows applicants to show off their skills at a time and place that suits them - in much the same way they might be working for us should they get the job!
+
+* 🕙  ~ Offline coding exercises allow you to work at your own pace. This helps eliminate the performance anxiety of pairing with someone you've never met. This in turn - we hope - allows you to create your best work! We intentionally structure these to take around 1-2 hours of time and you are free to break this into as many sessions as you want. Please do not take longer - we ask this for your sake, not ours.
+
+* 🛠 ~ It allows you to use the tools, languages, and frameworks where you are the most productive (within guiderails). Much of being an engineer on a semi-remote team is about being self-motivated, being able to solve problems in an effective way using exploration and an inquisitive mind. This will usually entail periods of cyclic work/edit/review/test, followed by peer review and then ultimately merging your work. Offline exercises follow a similar pattern and are a great way to emulate this.
