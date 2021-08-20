@@ -33,7 +33,7 @@ Feel free to include some screenshots in your repo as this may help as a fallbac
 
 2. Your API should be backed by a DB where this data is stored once uploaded. It's up to you how you want to set up this API and store the data locally. We use [Prisma](https://www.prisma.io/docs/getting-started/quickstart-typescript), [GraphQL](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql) and [PostgreSQL](https://www.prisma.io/docs/concepts/database-connectors/postgresql) internally.
 
-3. Use the sample files in [assets](assets) (which were sourced from a [publically available data set](https://sourceful.us/doc/572/ask-a-manager-salary-survey-2019-responses)). Alternatively, if your feeling ambitious, create your own simple data set using e.g. [faker](https://www.npmjs.com/package/faker).
+3. Use the sample files in [assets](assets) (which were sourced from a [publically available data set](https://sourceful.us/doc/572/ask-a-manager-salary-survey-2019-responses)). Alternatively, if you're feeling ambitious, create your own simple data set using e.g. [faker](https://www.npmjs.com/package/faker).
 
 4. Create an API endpoint which can read and serve data requested from your local DB. It's up to you how you want to set up this API locally. We use [NextJS](https://nextjs.org/docs/api-routes/introduction) internally.
 
