@@ -21,7 +21,7 @@ _**DOCS:**_ mandatory
 
 # Overview
 
-This coding exercise is to implement the best possible solution to one of the following exercises in the time allotted. 
+This coding exercise is to implement the best possible solution _within the allotted time_.
 
 Ideally your solution will have some way to run locally and visualise the results so we can fully analyse the experience (and not just look at the source code).
 
