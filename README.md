@@ -8,36 +8,21 @@ For an up to date list of roles we are recruiting for please see [our jobs page]
 
 Hi! If you're reading this then we're likely in the process of speaking with you about a technical role at [Ember](https://www.ember.co). If so, congratulations and thanks for your time so far!
 
-If you want to just get stuck in and skip our rational on coding exercises [click here](#instructions)...
-
-In order for you to progress through the interview process we would like to understand a little more about how you work, your experience and how you approach a given set of problems. To help us understand this, this repository contains a set of **short, time-boxed** exercise (approximately 1-2 hours max) that you can use to exhibit your skills, abilities and thought processes.
-
-## Our rational on offline coding exercises
-
-We know that the hiring processes in our industry are somewhat broken. We are also very aware that there are mixed opinions on take-home exercises in general. The main reason we ask candidates of *all* levels and backgrounds to complete these exercises are:
-
-* 🏢  ~ We employ flexible working methods. We have WeWork offices where some of our engineers choose to work. We also encourage and support those who would rather work from home. Or a mix of the two. We hire candidates accordingly and so we need some way of understanding how people work, under their own steam. A coding exercise helps us do this, in a way that allows applicants to show off their skills at a time and place that suits them - in much the same way they might be working for us should they get the job!
-
-* 🕙  ~ Offline coding exercises allow you to work at your own pace. This helps eliminate the performance anxiety of pairing with someone you've never met. This in turn - we hope - allows you to create your best work! We intentionally structure these to take around 1-2 hours of time and you are free to break this into as many sessions as you want. Please do not take longer - we ask this for your sake, not ours.
-
-* 🛠 ~ It allows you to use the tools, languages, and frameworks where you are the most productive (within guiderails). Much of being an engineer on a semi-remote team is about being self-motivated, being able to solve problems in an effective way using exploration and an inquisitive mind. This will usually entail periods of cyclic work/edit/review/test, followed by peer review and then ultimately merging your work. Offline exercises follow a similar pattern and are a great way to emulate this.
+If you're interested and want to know more, feel free to check out [Our rational on offline coding exercises](RATIONAL.md)
 
 ## Instructions
 
-Please read all the points that follow before moving to a specific role/exercise:
+This repository contains a set of **short, time-boxed** exercises (approximately 1-2 hours max) that you can use to exhibit your skills, abilities and thought processes.
 
-1. Choose an exercise that matches the role you are applying for:
-    * [Full Stack Engineer](fullstack/README.md)
-    * [DevOps Engineer (WIP)](devops/README.md)
-    * [Data Engineer (WIP)](data/README.md)
+If you have any questions please feel free to email jobs@ember.co. Or feel free to get back in touch with whoever you've been speaking with so far during the recruitment process.
 
-2. Read the `README.md` file in the matching directory (from point 1). Be sure to read the instructions carefully and ask any questions by emailing jobs@ember.co. Alternatively, feel free to get back in touch with whoever you've been speaking with so far during the recruitment process.
+Let's dive in...
 
-3. Create a new **private** Github repo for your exercise and add [Rhiad @ Ember](https://github.com/rhiadj) and [Aaron @ Ember](https://github.com/aarshaw) as collaborators.
+1. Create a new **private** Github repo for your exercise and add [Rhiad @ Ember](https://github.com/rhiadj) and [Aaron @ Ember](https://github.com/aarshaw) as collaborators.
 
-4. Complete as much of the exercise as you can _**in 2 hours or less.**_ Try to use as many of the suggested technologies as you are comfortable/familiar with - these will all be technologies we either use internally or are aware of. If you're not able to use any of those specified, feel free to use others but be aware this may mean we struggle to review your PR which could impact our decision to progress you.
+2. Complete as much of the exercise as you can _**in 2 hours or less.**_ Please do not spend longer than this - we want to be fair and so don't expect to eat into people's personal lives more than we have to in order to fairly assess each candidate!
 
-5. Be sure to include the following in your repo:
+3. Be sure to include the following in your repo:
     * `README.md` with the following information
         * A short explanation of what you've built
         * How to test/demo/run (if applicable)
@@ -47,6 +32,17 @@ Please read all the points that follow before moving to a specific role/exercise
     * Some form of lightweight technical documentation e.g. JSDoc / code comments.
     * OPTIONAL: Very simple test suite if possible - even just one test is a bonus!
 
+4. From here you can pick an exercise - whichever you prefer:
+    * [Exercise 1: Visualising Compensation and Benefits](exercise1/README.md)
+    * [Exercise 2: Upload, Store and Display Data](exercise2/README.md)
+
 5. When complete, email a link to the repo and any additional instructions (which are not in the README.md) to jobs@ember.co.
 
 6. We'll review your submission and get back to you within 3 business days.
+
+Good luck!
+
+
+
+
+
