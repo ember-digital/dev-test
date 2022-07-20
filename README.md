@@ -1,26 +1,16 @@
 ![Ember](assets/header.png?raw=true)
 
-# Ember Engineering
-
-For an up to date list of roles we are recruiting for please see [our jobs page](https://apply.workable.com/emberdigital/#jobs).
-
-![Hiring Process](assets/process.png?raw=true)
-
-Hi! If you're reading this then we're likely in the process of speaking with you about a technical role at [Ember](https://www.ember.co). If so, congratulations and thanks for your time so far!
-
-If you're interested and want to know more, feel free to check out [Our rational on offline coding exercises](RATIONAL.md)
-
 ## Instructions
 
-This repository contains a set of **short, time-boxed** exercises (approximately 1-2 hours max) that you can use to exhibit your skills, abilities and thought processes.
+This repository contains a set of exercises that you can use to exhibit your skills, abilities and thought processes.
 
-If you have any questions please feel free to email jobs@ember.co. Or feel free to get back in touch with whoever you've been speaking with so far during the recruitment process.
+If you have any questions please feel free to email tech@ember.co. Or feel free to get back in touch with whoever you've been speaking with so far during the recruitment process.
 
 Let's dive in...
 
-1. Create a new **private** Github repo for your exercise and add [Rhiad @ Ember](https://github.com/rhiadj) and [Aaron @ Ember](https://github.com/aarshaw) as collaborators.
+1. Create a new **private** Github repo for your exercise and add [Drew @ Ember](https://github.com/Andrewryanhyde) and [ Roman @ Ember](https://github.com/RomanShabanov) as collaborators.
 
-2. Complete as much of the exercise as you can _**in 2 hours or less.**_ Please do not spend longer than this - we want to be fair and so don't expect to eat into people's personal lives more than we have to in order to fairly assess each candidate!
+2. Complete as much of the exercise as you can _**in 4 hours or less.**_ Please do not spend longer than this - we want to be fair and so don't expect to eat into people's personal lives more than we have to in order to fairly assess each candidate!
 
 3. Be sure to include a `README.md` - suggested contents:
     * A short explanation of what you've built
