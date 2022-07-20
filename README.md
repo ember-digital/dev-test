@@ -22,7 +22,7 @@ Let's dive in...
     * [Exercise 1: Visualising Compensation and Benefits](exercise1/README.md)
     * [Exercise 2: Upload, Store and Display Data](exercise2/README.md)
 
-5. When complete, email a link to the repo and any additional instructions (which are not in the README.md) to jobs@ember.co.
+5. When complete, email a link to the repo and any additional instructions (which are not in the README.md) to salla@ember.co.
 
 6. We'll review your submission and get back to you within 3 business days.
 
